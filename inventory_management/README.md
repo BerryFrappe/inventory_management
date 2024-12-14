@@ -41,17 +41,17 @@ This application is a Python-based Inventory Management System that aims to stre
 
    View items that are either below the minimum threshold or above the maximum threshold.
 
-11. **View All Items**  
+7. **View All Items**  
 
-   Display all items in a scrollable table format in a separate window.
+      Display all items in a scrollable table format in a separate window.
 
-13. **Save Inventory**
+8. **Save Inventory**
 
-   Save the current inventory to a user-specified file in a human-readable .txt format. This ensures data is preserved and can be reviewed or reloaded later.
+      Save the current inventory to a user-specified file in a human-readable .txt format. This ensures data is preserved and can be reviewed or reloaded later.
 
-11. **Load Inventory**
+9. **Load Inventory**
 
-   Load previously saved inventory data from a user-specified .txt file. Restores the inventory for continued management after reopening the application.
+      Load previously saved inventory data from a user-specified .txt file. Restores the inventory for continued management after reopening the application.
 
 
 ---
