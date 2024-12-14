@@ -54,7 +54,12 @@ Ensure you have the following installed on your system:
    ```bash
    cd "repository_directory"
    ```
-2. Navigate to setup.py
+2. Clone this repository:
+   ```bash
+   git clone "repository URL"
+   ```
+   
+3. Navigate to setup.py
    ```bash
    cd "DS212_OOP-Inventory-Management"
    ```
@@ -62,12 +67,12 @@ Ensure you have the following installed on your system:
    cd "inventory_management"
    ```
 
-2. Install the package using `pip`:
+4. Install the package using `pip`:
    ```bash
    pip install .
    ```
 
-3. Verify the installation by running the following command:
+5. Verify the installation by running the following command:
    ```bash
    inventory_management
    ```
