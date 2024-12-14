@@ -22,28 +22,34 @@ This application is a Python-based Inventory Management System that aims to stre
 ## Features
 
 1. **Add Items**  
+
    Input items with classifications: ID Number, Name, Quantity, Price, Minimum Threshold, Maximum Threshold, and store them in the inventory.
 
-2. **Update Items**  
+3. **Update Items**  
+
    Modify the existing item’s Quantity and Price by entering the item ID.
 
-3. **Delete Items**  
+5. **Delete Items**  
+
    Remove an item from the inventory using its unique ID.
 
-4. **Retrieve Items**  
+7. **Retrieve Items**  
+
    Display a specific item or the entire inventory with details such as ID, Name, Quantity, Price, and Thresholds.
 
-5. **Threshold Alerts**  
+9. **Threshold Alerts**  
+
    View items that are either below the minimum threshold or above the maximum threshold.
 
-6. **View All Items**  
+11. **View All Items**  
+
    Display all items in a scrollable table format in a separate window.
 
-7. **Save Inventory**
+13. **Save Inventory**
 
    Save the current inventory to a user-specified file in a human-readable .txt format. This ensures data is preserved and can be reviewed or reloaded later.
 
-9. **Load Inventory**
+11. **Load Inventory**
 
    Load previously saved inventory data from a user-specified .txt file. Restores the inventory for continued management after reopening the application.
 
