@@ -50,10 +50,16 @@ Ensure you have the following installed on your system:
 
 ### Steps to Install the Package
 
-1. Clone or download the repository:
+1. Navigate to desired directory for the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   cd "repository_directory"
+   ```
+2. Navigate to setup.py
+   ```bash
+   cd "DS212_OOP-Inventory-Management"
+   ```
+   ```bash
+   cd "inventory_management"
    ```
 
 2. Install the package using `pip`:
