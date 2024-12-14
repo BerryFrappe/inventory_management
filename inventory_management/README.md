@@ -40,9 +40,11 @@ This application is a Python-based Inventory Management System that aims to stre
    Display all items in a scrollable table format in a separate window.
 
 7. **Save Inventory**
+
    Save the current inventory to a user-specified file in a human-readable .txt format. This ensures data is preserved and can be reviewed or reloaded later.
 
-8. **Load Inventory**
+9. **Load Inventory**
+
    Load previously saved inventory data from a user-specified .txt file. Restores the inventory for continued management after reopening the application.
 
 
